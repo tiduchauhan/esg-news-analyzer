@@ -175,4 +175,7 @@ MIT.
 
 ## Submission
 
-This project is submitted as part of the assignment. See **SUBMISSION.txt** for repository link, video demo link, problem statement, and AI usage report.
+This project is submitted as part of the assignment.
+
+- **GitHub Repository:** https://github.com/tiduchauhan/esg-news-analyzer  
+- For all submission links (video demo, problem statement, AI usage report), see **SUBMISSION.txt**.

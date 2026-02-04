@@ -7,7 +7,7 @@ Date:
 
 LINKS
 -----
-GitHub Repository: [paste your public repo URL here]
+GitHub Repository: https://github.com/tiduchauhan/esg-news-analyzer
 Video Demo (3-5 min): [paste link here]
 Problem Statement (1 page PDF): [paste link or attach]
 AI Usage Report (1-2 pages PDF): [paste link or attach]
