@@ -1,0 +1,18 @@
+ESG News Analyzer & Sentiment Tracker - Assignment 2 Submission
+================================================================
+
+Name:
+Student ID:
+Date:
+
+LINKS
+-----
+GitHub Repository: [paste your public repo URL here]
+Video Demo (3-5 min): [paste link here]
+Problem Statement (1 page PDF): [paste link or attach]
+AI Usage Report (1-2 pages PDF): [paste link or attach]
+
+NOTES
+-----
+- Run: npm run install:all then npm run dev (client on :5173, API on :3001).
+- Set OPENAI_API_KEY in server/.env for live AI; app works with rule-based fallback without it.

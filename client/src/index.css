@@ -1,0 +1,56 @@
+:root {
+  --bg: #0d1117;
+  --surface: #161b22;
+  --border: #30363d;
+  --text: #e6edf3;
+  --text-muted: #8b949e;
+  --accent: #58a6ff;
+  --accent-dim: #388bfd;
+  --green: #3fb950;
+  --red: #f85149;
+  --amber: #d29922;
+  --radius: 10px;
+  --font: 'DM Sans', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  font-family: var(--font);
+  cursor: pointer;
+}
+
+input, select {
+  font-family: var(--font);
+}
+
+.sentiment-positive { color: var(--green); }
+.sentiment-negative { color: var(--red); }
+.sentiment-neutral { color: var(--amber); }
+.tag-e { background: rgba(63, 185, 80, 0.2); color: #7ee787; }
+.tag-s { background: rgba(88, 166, 255, 0.2); color: #79c0ff; }
+.tag-g { background: rgba(210, 153, 34, 0.2); color: #e3b341; }
