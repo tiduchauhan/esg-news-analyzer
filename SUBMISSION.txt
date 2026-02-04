@@ -8,11 +8,12 @@ Date:
 LINKS
 -----
 GitHub Repository: https://github.com/tiduchauhan/esg-news-analyzer
-Video Demo (3-5 min): [paste link here]
-Problem Statement (1 page PDF): [paste link or attach]
-AI Usage Report (1-2 pages PDF): [paste link or attach]
+Video Demo: https://go.screenpal.com/watch/cOnf3Zn3dZ5
+Problem Statement : file:///C:/Users/chinm/OneDrive/Desktop/problem%20statement%20ass%202.pdf  or See the docs folder
+AI Usage Report : see the docs the folder[Ai-Usage-Reort.md]
 
 NOTES
 -----
 - Run: npm run install:all then npm run dev (client on :5173, API on :3001).
-- Set OPENAI_API_KEY in server/.env for live AI; app works with rule-based fallback without it.
+- Set OPENAI_API_KEY or GEMINI_API_KEY in server/.env for live AI; app works with rule-based fallback without it.
+- Problem Statement and AI Usage Report content: see docs/Problem-Statement.md and docs/AI-Usage-Report.md (copy into Word/Google Docs and export as PDF, then paste links above).
